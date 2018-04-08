@@ -1,0 +1,15 @@
+{
+  "name": "hiver",
+  "version": "1.0.0",
+  "description": "Coinhive node client",
+  "main": "run.js",
+  "dependencies": {
+    "coin-hive": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ZhangZisu",
+  "license": "ISC"
+}
